@@ -39,7 +39,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Computer Science Just the Useful Bits - Larry Orton](https://youtu.be/befHSuOxcGU)
+- <a href="https://saltyscience.substack.com/" style="text-color: white">Salty Science</a>
 <!-- YOUTUBE:END -->
 
 ---
