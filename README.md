@@ -1,8 +1,6 @@
 # Hi there, I'm Larry - aka Salty Science👋 
 
-[![Website](https://saltyscience.substack.com/)](https://substack.com)
-
-<a href="https://saltyscience.substack.com/">Salty Science</a>
+<a href="https://saltyscience.substack.com/" style="text-color: white">Salty Science</a>
 
 ## I'm a Husband, Father, and US Army Soldier with a Bachlors of Computer Science in Cybersecurity
 
