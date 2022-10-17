@@ -2,6 +2,8 @@
 
 [![Website](https://saltyscience.substack.com/)](https://substack.com)
 
+<a href="https://saltyscience.substack.com/">Salty Science</a>
+
 ## I'm a Husband, Father, and US Army Soldier with a Bachlors of Computer Science in Cybersecurity
 
 - 🌱 I’m currently learning everything 🤣
