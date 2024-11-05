@@ -2,11 +2,11 @@
 
 <a href="https://saltyscience.substack.com/" style="text-color: white">Salty Science</a>
 
-## I'm a Husband, Father, and US Army Soldier with a Bachlors of Computer Science in Cybersecurity
+## I'm a Husband, Father, and US Army Soldier with a Bachelor's degree in Computer Science in Cybersecurity. I am currently studying at UC Berkeley for a Master's in Information and Cybersecurity.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about Cryptography 
+- 🥅 2025 Goals: Learn more about Cryptography 
 
 ### Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/larry-orton/#gh-light-mode-only)
