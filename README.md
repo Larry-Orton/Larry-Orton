@@ -1,4 +1,4 @@
-# Hi there, I'm Larry - aka Salty Science👋 
+# Hi there, I'm Larry - aka Salty👋 
 
 <a href="https://saltyscience.substack.com/" style="text-color: white">Salty Science</a>
 
