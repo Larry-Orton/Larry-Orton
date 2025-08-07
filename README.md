@@ -9,7 +9,7 @@
 I am a **Cybersecurity Professional** with a **Bachelor's in Computer Science** (focus: Cybersecurity) and currently pursuing a **Master's in Information and Cybersecurity** at **UC Berkeley**. I am passionate about protecting digital ecosystems, developing secure solutions, and staying ahead of emerging cybersecurity threats.
 
 ### Key Highlights:
-- 🌐 **16+ years** of military service in the US Army, developing leadership, adaptability, and problem-solving skills.
+- 🌐 **18+ years** of military service in the US Army, developing leadership, adaptability, and problem-solving skills.
 - 🛡️ Focused on **cryptography, threat analysis**, and **cyber risk assessment**.
 - 🤝 Interested in collaborating with **like-minded professionals** and contributing to impactful projects.
 - 🎯 **Career Goal**: Combine my technical and leadership skills to secure digital infrastructure in a rapidly evolving threat landscape.
